@@ -25,7 +25,7 @@ return array
 }
 
 function accessElementInArray (array, index, element) {
-array[index]
+element=array[index]
 return element
 }
 
