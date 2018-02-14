@@ -25,7 +25,7 @@ return array
 }
 
 function accessElementInArray (array, index, element) {
-console.log(array[index])
+array[index]
 return element
 }
 
