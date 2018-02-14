@@ -24,7 +24,7 @@ array.shift(element)
 return array
 }
 
-function accessElementInArray (array, index) {
+function accessElementInArray (array, index, element) {
 console.log(array[index])
 return element
 }
