@@ -29,8 +29,8 @@ element=array[index]
 return element
 }
 
-function removeElementFromBeginningOfArray (array) {
+function removeElementFromBeginningOfArray (array, element) {
  array.slice(1)
- return array
+ return array(element)
 }
 
