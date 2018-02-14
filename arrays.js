@@ -25,8 +25,8 @@ return array
 }
 
 function accessElementInArray (array, element) {
-console.log(array[element])
-return array
+console.log(array[index])
+return element
 }
 
 function removeElementFromBeginningOfArray (array, element) {
