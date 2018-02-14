@@ -24,4 +24,8 @@ array.shift(element)
 return array
 }
 
-function 
+function removeElementFromBeginningOfArray (array, element) {
+  array.slice(element)
+  return array
+}
+}
